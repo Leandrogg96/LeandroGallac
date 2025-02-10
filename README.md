@@ -2,15 +2,10 @@
 <h3 align="center">I'm Leandro, a passionate and enthusiastic developer.</h3>
 <p>💻 I'm immersed in the fascinating world of programming. I started my journey as a self-taught, curious, enthusiastic and stubborn. With the goal of obtaining an academic degree, I'm studying at the National University of Santiago del Estero, which will allow me to obtain the title of university programmer.
 
-My life before programming was totally different.<br><br>
-My old job was nothing related to technology, however I got to know this world and I realised that I needed a change of profession and lifestyle.<br>
+My life before programming was totally different. My old job was nothing related to technology, however I got to know this world and I realised that I needed a change of profession and lifestyle.This made me decide to follow this path and, for the first time, I feel that I have found something that I am really passionate about, something that motivates me to challenge myself and keep learning continuously.
 
-This made me decide to follow this path and, for the first time, I feel that I have found something that I am really passionate about, something that motivates me to challenge myself and keep learning continuously.
-
-<br>
 Throughout this time, I have gained strong knowledge in technologies like Python, Java, MySQL, PostgreSQL, HTML, CSS, JavaScript. I'm still thrilled to learn new technologies and strengthen the skills I already possess. 
 
-<br>
 I´m always in search of opportunities to grow and take on new challenges. 
 <br>
 🤓Currently, I´m working on small development projects to gain more experience while continuing to enhance my skills in other technologies.
