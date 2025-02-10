@@ -1,22 +1,22 @@
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">I´m Agustina, a passionate Full Stack Developer❤️</h3>
-<p>💻I´m immersed in the fascinating world of programming. I started my journey as a self-taught enthusiast and recently graduated from Henry's bootcamp, which allowed me to become a Full Stack Developer.
+<h3 align="center">I´m Leandro, a passionate Full Stack Developer❤️</h3>
+<p>💻I´m immersed in the fascinating world of programming. I started my journey as a self-taught enthusiast and actually study in University nacional of graduated from Henry's bootcamp, which allowed me to become a Full Stack Developer.
 
-My journey before programming was entirely different.😯<br><br>
-🦷Three years ago, I graduated as a dentist, but I realized that I needed a change in my life.<br><br>
-✈️I decided to embark on a journey and lived in Germany and Sweden for two years. This experience made me realize that I needed a profession that combined my passion for traveling with my adventurous personality.<br>
-This made me take the decision to follow this path, and for the first time, I feel that I have found something that truly excites me, something that motivates me to keep learning continuously.💗
+My life before programming was totally different.<br><br>
+My old job was nothing related to technology, however I got to know this world and I realised that I needed a change of profession and lifestyle.<br>
+This made me decide to follow this path and, for the first time, I feel that I have found something that I am really passionate about, something that motivates me to challenge myself and keep learning continuously.
+
 <br><br>
-Throughout this time, I have gained strong knowledge in technologies like JavaScript, React JS, Redux, Node JS, PostgreSQL, and CSS. I am still thrilled to learn new technologies and strengthen the skills I already possess.
+Throughout this time, I have gained strong knowledge in technologies like Python, Java, MySQL, PostgreSQL, HTML, CSS, JavaScript. I'm still thrilled to learn new technologies and strengthen the skills I already possess. 
 <br>
 I´m always in search of opportunities to grow and take on new challenges. 
 🤓Currently, I´m working on small development projects to gain more experience while continuing to enhance my skills in other technologies.
 </p>
 - 📫 How to reach me
   <strong>gallacleandro@gmail.com</strong><br><br>
-  <strong>https://www.linkedin.com/in/agustinatahhan</strong>
+  <strong>https://www.linkedin.com/in/leandro-gallac-457a8b64/</strong>
 <br><br>
-- 🌱 I’m currently learning <strong>React Native</strong>
+- 🌱 I’m currently learning <strong>Go</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
